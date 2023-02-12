@@ -1,0 +1,3 @@
+pacman -Sgg | grep blackarch | awk '{print $1}' | sort -u | less 
+
+pacman -S blackarch-nombre_paquete

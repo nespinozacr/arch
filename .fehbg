@@ -1,0 +1,2 @@
+#!/bin/sh
+feh --no-fehbg --bg-fill '/home/nelson/Imagenes/wallpaper/fondo5.jpg' 
